@@ -11,5 +11,5 @@ public class ShoppingList extends AbstractTest{
         RestAssured.enableLoggingOfRequestAndResponseIfValidationFails();
     }
 
-    // тут должны быть тесты, но пока их нет
+    // сделал в lesson 4
 }
